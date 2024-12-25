@@ -1,3 +1,4 @@
+# This workflow defines a CI/CD pipeline for a Java web application using GitHub Actions. It builds, tests, analyzes, and deploys the application to various environments.
 name: My CI/CD Pipeline
 
 on:
